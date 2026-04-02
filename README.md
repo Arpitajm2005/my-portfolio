@@ -8,7 +8,7 @@ This project showcases my skills, projects, and contact information with a clean
 
 ## 🚀 Live Demo
 
-🔗 https://your-username.github.io/my-portfolio/
+🔗 https://arpitajm2005.github.io/my-portfolio/
 
 ---
 
@@ -38,14 +38,13 @@ This project showcases my skills, projects, and contact information with a clean
 my-portfolio/
 │── index.html
 │── style.css
-│── script.js
 │── images/
     ├── project1.jpg
     ├── project2.jpg
     └── project3.jpg
 ```
 
----
+
 
 ## ⚙️ Setup Instructions
 
@@ -80,7 +79,7 @@ This project is deployed using **GitHub Pages**:
 
 ## 📸 Screenshots
 
-*Add your project screenshots here
+*Screenshot.png
 
 
 

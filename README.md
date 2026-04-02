@@ -51,7 +51,7 @@ my-portfolio/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/my-portfolio.git
+git clone https://github.com/Arpitajm2005/my-portfolio.git
 ```
 
 2. Open the folder:

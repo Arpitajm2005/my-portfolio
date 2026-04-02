@@ -1,0 +1,116 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    background: radial-gradient(circle at center, #0f2027, #02080f);
+}
+
+/* Navbar */
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+    background: rgba(0,0,0,0.5);
+}
+
+nav a {
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+/* Hero */
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero span {
+    color: #2dd4bf;
+}
+
+.hero button {
+    margin-top: 20px;
+    padding: 12px 30px;
+    border: none;
+    background: #2dd4bf;
+    color: black;
+    border-radius: 8px;
+    box-shadow: 0 0 15px #2dd4bf;
+    cursor: pointer;
+}
+
+/* Sections */
+section {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+/* Projects */
+.project-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background: rgba(255,255,255,0.05);
+    padding: 10px;
+    border-radius: 15px;
+    width: 250px;
+    transition: 0.3s;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+/* Contact */
+.contact input,
+.contact textarea {
+    display: block;
+    width: 60%;
+    margin: 10px auto;
+    padding: 12px;
+    border-radius: 8px;
+    border: none;
+    background: rgba(255,255,255,0.1);
+    color: white;
+}
+
+.contact textarea {
+    height: 120px;
+}
+
+.contact button {
+    margin-top: 10px;
+    padding: 12px 30px;
+    background: #2dd4bf;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 0 15px #2dd4bf;
+    cursor: pointer;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: rgba(0,0,0,0.5);
+}
